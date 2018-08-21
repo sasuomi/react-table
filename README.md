@@ -818,8 +818,6 @@ If you want to handle pagination, sorting, and filtering on the server, `react-t
 />
 ```
 
-For a detailed example, take a peek at our <a href="https://github.com/react-tools/react-table/blob/master/stories/ServerSide.js" target="\_parent">async table mockup</a>
-
 ## Fully Controlled Component
 
 React Table by default works fantastically out of the box, but you can achieve even more control and customization if you choose to maintain the state yourself. It is very easy to do, even if you only want to manage _parts_ of the state.
